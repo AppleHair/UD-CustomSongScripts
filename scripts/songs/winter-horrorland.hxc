@@ -1,0 +1,8 @@
+import funkin.play.song.Song;
+
+class WinterHorrorlandSong extends Song {
+
+    function new() {
+        super("winter-horrorland");
+    }
+}
