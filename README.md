@@ -27,3 +27,13 @@ To learn how to customize other song scripts, you should go look inside the scri
 ## Disclaimer
 
 This system is deprecated in favor of a variation-specific song scripts system since UD v1.1.0. This was just a temporary solution to prevent conflicts between mods that modify the same song script and was made into an extension to allow backwards compatibility with mods that use it, and to be used as a template for new vatiation-specific song scripts. Therefore, this extension will still get updates to include all of the latest changes to all of the scripts that were originally included here.
+
+## Downloading the extension
+
+### From GameBanana:
+
+When you download the extension from [GameBanana](https://gamebanana.com/mods/512797), you will get a zip file that contains a folder with the extension's name. This folder is the mod's root folder. You should extract this folder to the `mods` folder in your FNF root directory, so the mod's root folder will be at `mods/Customizable Song Scripts (UD)`.
+
+### From GitHub:
+
+When you download the extension from [GitHub](https://github.com/AppleHair/UD-CustomSongScripts/releases), you will get a zip file named "UD-CustomSongScripts-[version]". This zip file contains all the files that should be in the mod's root folder. You should extract these files into a new folder in the `mods` folder in your FNF root directory and give it the extension's name, "Customizable Song Scripts (UD)", so the mod's root folder will be at `mods/Customizable Song Scripts (UD)`.
